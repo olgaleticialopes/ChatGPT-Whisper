@@ -29,4 +29,4 @@ classDiagram
 
 ~~~~
 
-Explore the codebase in detail on [GitHub](). The code initially started in Google Colab and has been seamlessly exported to GitHub. Dive into the intricacies of the application and witness the evolution from Colab to a more polished GitHub version.
+Explore the codebase in detail on [GitHub](https://github.com/olgaleticialopes/ChatGPT-Whisper/blob/main/Whisper_e_ChatGPT.ipynb). The code initially started in Google Colab and has been seamlessly exported to GitHub. Dive into the intricacies of the application and witness the evolution from Colab to a more polished GitHub version.
